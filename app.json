@@ -1,7 +1,7 @@
 {
   "name": "gooxy fetserver",
-  "description": "a gang fetserver for gooxy",
+  "description": "a golang fetserver for gooxy",
   "repository": "https://github.com/aloux00/gpedit.git",
   "logo": "https://avatars3.githubusercontent.com/u/195836?s=60",
-  "keywords": ["gang", "fetserver", "gang"]
+  "keywords": ["golang", "fetserver", "golang"]
 }
